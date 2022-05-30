@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+#container-imagem {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+
+    background: url(imagem/parque-nacional-do-pantanal-matogrossense-paisagem-natural.webp);
+    background-size: cover;
+    
+
+}
